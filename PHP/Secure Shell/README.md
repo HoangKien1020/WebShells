@@ -1,1 +1,1 @@
-Folder for sure shell by token
+Folder for secure shell by token
