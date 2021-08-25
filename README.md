@@ -31,3 +31,6 @@ To gen for Linux target is :
 In real case, we need to encode payload as URL(`Ctrl+U` in Burpsuite):
 
 ![image](https://user-images.githubusercontent.com/24661746/130804243-78775658-ed64-4abb-8dd5-e0120314eb71.png)
+
+![image](https://user-images.githubusercontent.com/24661746/130805272-33ffe746-7fd4-49b2-be47-87aa8cdef7dc.png)
+
